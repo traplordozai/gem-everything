@@ -1,0 +1,45 @@
+<div class="wpcf7-inline-wrapper wpcf7-input-group wpcf7-inset-btn">
+<p class="wpcf7-inline-field wpcf7-inline-field-text">[email* your-email class:inset-input placeholder "Email"]</p>
+<p class="wpcf7-inline-field wpcf7-inline-field-btn">[submit class:btn-inset class:btn class:btn-default class:btn-flat "Click the button"]</p>
+</div>
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+Your entered code is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.

@@ -1,0 +1,111 @@
+:root {
+  /* Color System */
+  --gem-primary: #2D5BFF;
+  --gem-secondary: #6B7280;
+  --gem-success: #10B981;
+  --gem-warning: #F59E0B;
+  --gem-danger: #EF4444;
+  --gem-background: #FFFFFF;
+  --gem-surface: #F3F4F6;
+  
+  /* Typography */
+  --gem-font-primary: 'Inter', system-ui, -apple-system, sans-serif;
+  --gem-font-mono: 'SF Mono', SFMono-Regular, ui-monospace, monospace;
+  
+  /* Spacing */
+  --gem-spacing-xs: 0.25rem;
+  --gem-spacing-sm: 0.5rem;
+  --gem-spacing-md: 1rem;
+  --gem-spacing-lg: 1.5rem;
+  --gem-spacing-xl: 2rem;
+  
+  /* Shadows */
+  --gem-shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --gem-shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  --gem-shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  
+  /* Transitions */
+  --gem-transition: all 0.2s ease;
+  
+  /* Border Radius */
+  --gem-radius-sm: 0.375rem;
+  --gem-radius-md: 0.5rem;
+  --gem-radius-lg: 0.75rem;
+}
+
+/* Base Layout Components */
+.gem-container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 var(--gem-spacing-md);
+}
+
+.gem-card {
+  background: var(--gem-background);
+  border-radius: var(--gem-radius-md);
+  box-shadow: var(--gem-shadow-md);
+  padding: var(--gem-spacing-lg);
+  transition: var(--gem-transition);
+}
+
+/* Navigation Components */
+.gem-nav {
+  display: flex;
+  align-items: center;
+  padding: var(--gem-spacing-md) 0;
+  background: var(--gem-background);
+  border-bottom: 1px solid var(--gem-surface);
+}
+
+/* Button System */
+.gem-button {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: var(--gem-radius-sm);
+  font-weight: 500;
+  transition: var(--gem-transition);
+  cursor: pointer;
+}
+
+.gem-button--primary {
+  background: var(--gem-primary);
+  color: white;
+}
+
+.gem-button--secondary {
+  background: var(--gem-surface);
+  color: var(--gem-secondary);
+}
+
+/* Form Components */
+.gem-input {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--gem-surface);
+  border-radius: var(--gem-radius-sm);
+  transition: var(--gem-transition);
+}
+
+/* Dashboard Grid */
+.gem-dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: var(--gem-spacing-lg);
+  padding: var(--gem-spacing-lg) 0;
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (prefers-contrast: high) {
+  :root {
+    --gem-primary: #0000EE;
+    --gem-surface: #FFFFFF;
+  }
+}

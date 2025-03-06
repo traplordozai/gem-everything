@@ -1,0 +1,55 @@
+<p>[text* your-fullname placeholder class:form-fluid "Full Name"]</p>
+
+
+<div class="wpcf7-inline-wrapper">
+<p class="wpcf7-inline-field">[email* your-email placeholder "Email"] </p>
+<p class="wpcf7-inline-field">[text* your-telephone placeholder class:form-fluid "Phone"] </p>
+</div>
+
+<p>[textarea your-message placeholder 40x8 "Message"] </p>
+
+<p>[select menu-640  "500 - 3.000 €" "3.000 - 10.000 €" "10.000 - 15.000 €" "15.000 € +"]</p>
+
+
+[submit class:btn class:btn-accent "Click the button"]
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your message was sent successfully. Thanks.
+Failed to send your message. Please try later or contact the administrator by another method.
+Validation errors occurred. Please confirm the fields and submit it again.
+Failed to send your message. Please try later or contact the administrator by another method.
+Please accept the terms to proceed.
+Please fill the required field.
+This input is too long.
+This input is too short.
+Date format seems invalid.
+This date is too early.
+This date is too late.
+Failed to upload file.
+This file type is not allowed.
+This file is too large.
+Failed to upload file. Error occurred.
+Number format seems invalid.
+This number is too small.
+This number is too large.
+Your answer is not correct.
+Your entered code is incorrect.
+Email address seems invalid.
+URL seems invalid.
+Telephone number seems invalid.

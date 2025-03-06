@@ -1,0 +1,4 @@
+<div class="wpcf7-inline-wrapper wpcf7-input-group wpcf7-inset-btn">
+<p class="wpcf7-inline-field wpcf7-inline-field-text">[email* your-email class:inset-input placeholder "Email"]</p>
+<p class="wpcf7-inline-field wpcf7-inline-field-btn">[submit class:btn-inset class:btn class:btn-default class:btn-flat "Click the button"]</p>
+</div>

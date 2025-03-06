@@ -1,0 +1,46 @@
+<?php
+/**
+ * name             - Wireframe title
+ * cat_name         - Comma separated list for multiple categories (cat display name)
+ * custom_class     - Space separated list for multiple categories (cat ID)
+ * dependency       - Array of dependencies
+ * is_content_block - (optional) Best in a content block
+ *
+ * @version  1.0.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
+
+$wireframe_categories = UNCDWF_Dynamic::get_wireframe_categories();
+$data                 = array();
+
+// Wireframe properties
+
+$data[ 'name' ]             = esc_html__( 'Grid Bento Alt', 'uncode-wireframes' );
+$data[ 'cat_name' ]         = $wireframe_categories[ 'grids' ];
+$data[ 'custom_class' ]     = 'grids';
+$data[ 'image_path' ]       = UNCDWF_THUMBS_URL . 'grids/Grid-Bento-Alt.jpg';
+$data[ 'dependency' ]       = array();
+$data[ 'is_content_block' ] = false;
+
+// Wireframe content
+
+$data[ 'content' ]      = '
+[vc_row unlock_row_content="yes" row_height_percent="0" override_padding="yes" h_padding="3" top_padding="5" bottom_padding="5" overlay_alpha="50" equal_height="justify" gutter_size="3" column_width_percent="100" border_color="color-gyho" border_style="solid" shift_y="0" z_index="0" uncode_shortcode_id="905037" css=".vc_custom_1721139199037{border-top-width: 1px !important;}" border_color_type="uncode-palette"][vc_column column_width_percent="100" position_vertical="justify" gutter_size="3" back_color="'. uncode_wf_print_color( 'color-nhtu' ) .'" overlay_alpha="50" radius="hg" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="4" mobile_width="0" width="1/4" uncode_shortcode_id="139000" back_color_type="uncode-palette"][vc_row_inner row_inner_height_percent="100" overlay_alpha="50" gutter_size="3" shift_y="0" z_index="0" limit_content="" uncode_shortcode_id="228215"][vc_column_inner column_width_percent="100" gutter_size="3" back_image="'. uncode_wf_print_single_image( '80471' ) .'" overlay_alpha="50" radius="xl" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="176459" mobile_height="35vh"][/vc_column_inner][/vc_row_inner][vc_row_inner limit_content=""][vc_column_inner column_width_percent="100" gutter_size="3"  back_color="'. uncode_wf_print_color( 'color-xsdn' ) .'" overlay_alpha="50" radius="xl" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="794560" back_color_type="uncode-palette"][vc_custom_heading heading_semantic="h3" text_size="'. uncode_wf_print_font_size( 'custom' ) .'" text_weight="600" text_height="'. uncode_wf_print_font_height( 'fontheight-179065' ) .'" uncode_shortcode_id="193695" heading_custom_size="clamp(24px,5vw,35px)"]Medium length headline[/vc_custom_heading][vc_progress_bar values="%5B%7B%22label%22%3A%22Organic%20Traffic%22%2C%22value%22%3A%2290%22%2C%22bar_color_type%22%3A%22uncode-palette%22%2C%22bar_color%22%3A%22accent%22%2C%22bar_color_solid%22%3A%22%239373e3%22%2C%22back_color_type%22%3A%22uncode-palette%22%2C%22back_color_solid%22%3A%22%23ff0000%22%7D%2C%7B%22label%22%3A%22Direct%22%2C%22value%22%3A%2284%22%2C%22bar_color_type%22%3A%22uncode-palette%22%2C%22bar_color%22%3A%22accent%22%2C%22bar_color_solid%22%3A%22%239373e3%22%2C%22back_color_type%22%3A%22uncode-palette%22%2C%22back_color_solid%22%3A%22%23ff0000%22%7D%2C%7B%22label%22%3A%22Social%20%26%20Ads%22%2C%22value%22%3A%2292%22%2C%22bar_color_type%22%3A%22uncode-palette%22%2C%22bar_color%22%3A%22accent%22%2C%22bar_color_solid%22%3A%22%239373e3%22%2C%22back_color_type%22%3A%22uncode-palette%22%2C%22back_color_solid%22%3A%22%23ff0000%22%7D%2C%7B%22label%22%3A%22Newsletter%22%2C%22value%22%3A%2297%22%2C%22bar_color_type%22%3A%22uncode-palette%22%2C%22bar_color%22%3A%22accent%22%2C%22bar_color_solid%22%3A%22%239373e3%22%2C%22back_color_type%22%3A%22uncode-palette%22%2C%22back_color_solid%22%3A%22%23ff0000%22%7D%5D"][/vc_column_inner][/vc_row_inner][/vc_column][vc_column column_width_percent="100" position_vertical="justify" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="4" mobile_width="0" width="1/4" uncode_shortcode_id="200735"][vc_row_inner row_inner_height_percent="100" overlay_alpha="50" gutter_size="3" shift_y="0" z_index="0" limit_content="" uncode_shortcode_id="145359"][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_center" gutter_size="0" style="dark" back_image="'. uncode_wf_print_single_image( '84889' ) .'" overlay_color="'. uncode_wf_print_color( 'color-nhtu' ) .'" overlay_alpha="10" radius="hg" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="596222" overlay_color_type="uncode-palette" mobile_height="50vh"][vc_custom_heading heading_semantic="div"  text_size="'. uncode_wf_print_font_size( 'custom' ) .'" text_weight="600" text_height="'. uncode_wf_print_font_height( 'fontheight-161249' ) .'" uncode_shortcode_id="409387" heading_custom_size="clamp(75px,14vw,200px)"]2[/vc_custom_heading][vc_custom_heading heading_semantic="h3" text_size="'. uncode_wf_print_font_size( 'custom' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-179065' ) .'" uncode_shortcode_id="287852" heading_custom_size="clamp(24px,5vw,35px)"]Medium Headline[/vc_custom_heading][/vc_column_inner][/vc_row_inner][/vc_column][vc_column column_width_percent="100" gutter_size="3"  overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="4" mobile_width="0" width="1/4" uncode_shortcode_id="262409"][vc_single_image media="'. uncode_wf_print_single_image( '80471' ) .'" media_width_percent="100" media_ratio="one-one" shape="img-round" radius="hg" uncode_shortcode_id="101143"][vc_row_inner row_inner_height_percent="100" overlay_alpha="50" gutter_size="3" shift_y="0" z_index="0" limit_content="" uncode_shortcode_id="145359"][vc_column_inner column_width_percent="100" position_vertical="justify" gutter_size="3" style="dark" back_color="'. uncode_wf_print_color( 'color-nhtu' ) .'" overlay_alpha="50" radius="hg" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="105166" back_color_type="uncode-palette" el_class="overflow-hidden-uncell"][vc_pie value="70" arc_width="12" bar_color="" uncode_shortcode_id="712734"][vc_custom_heading heading_semantic="h3" text_size="'. uncode_wf_print_font_size( 'custom' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-179065' ) .'" css_animation="marquee" marquee_clone="yes" marquee_speed="-4" uncode_shortcode_id="993914" heading_custom_size="clamp(24px,5vw,35px)"]Medium length headline ✳︎[/vc_custom_heading][vc_custom_heading heading_semantic="p" text_size="'. uncode_wf_print_font_size( 'h4' ) .'" text_weight="400" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="174094"]Change the color to match your brand or vision, add your logo, choose the perfect layout, modify menu settings and more.[/vc_custom_heading][/vc_column_inner][/vc_row_inner][/vc_column][vc_column column_width_percent="100" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="4" mobile_width="0" width="1/4" uncode_shortcode_id="127340"][vc_row_inner row_inner_height_percent="100" overlay_alpha="50" gutter_size="3" shift_y="0" z_index="0" limit_content="" uncode_shortcode_id="145359"][vc_column_inner column_width_percent="100" position_vertical="justify" gutter_size="3" style="dark" back_color="accent" overlay_alpha="50" radius="hg" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="179542" back_color_type="uncode-palette"][vc_icon icon="fa fa-users2" background_style="fa-rounded" size="fa-2x" uncode_shortcode_id="597790"][/vc_icon][vc_custom_heading heading_semantic="h3" text_size="'. uncode_wf_print_font_size( 'custom' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-179065' ) .'" uncode_shortcode_id="144803" heading_custom_size="clamp(24px,5vw,35px)"]Medium length headline[/vc_custom_heading][vc_custom_heading heading_semantic="p" text_size="'. uncode_wf_print_font_size( 'h4' ) .'" text_weight="400" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="666966"]Change the color to match your brand or vision, add your logo, choose the perfect layout, modify menu settings and more.[/vc_custom_heading][/vc_column_inner][/vc_row_inner][vc_single_image media="'. uncode_wf_print_single_image( '80471' ) .'" media_width_percent="100" media_ratio="one-one" shape="img-round" radius="hg" uncode_shortcode_id="987076"][/vc_column][/vc_row]
+';
+
+// Check if this wireframe is for a content block
+if ( $data[ 'is_content_block' ] && ! $is_content_block ) {
+	$data[ 'custom_class' ] .= ' for-content-blocks';
+}
+
+// Check if this wireframe requires a plugin
+foreach ( $data[ 'dependency' ]  as $dependency ) {
+	if ( ! UNCDWF_Dynamic::has_dependency( $dependency ) ) {
+		$data[ 'custom_class' ] .= ' has-dependency needs-' . $dependency;
+	}
+}
+
+vc_add_default_templates( $data );

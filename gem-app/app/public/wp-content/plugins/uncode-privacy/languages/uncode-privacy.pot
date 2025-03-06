@@ -1,0 +1,328 @@
+# Copyright (C) 2024 Uncode Privacy
+# This file is distributed under the same license as the Uncode Privacy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode Privacy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Undsgn\n"
+"Report-Msgid-Bugs-To: https://undsgn.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:94, ../includes/class-uncode-toolkit-privacy-admin.php:94
+msgid "Privacy"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:95, ../includes/class-uncode-toolkit-privacy-admin.php:95
+msgid "Privacy Logs"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:127, ../includes/views/admin/logs.php:6, ../includes/views/admin/settings.php:25
+msgid "General"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:128, ../includes/class-uncode-toolkit-privacy-logs-list-table.php:30, ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:51, ../includes/views/admin/logs.php:9, ../includes/views/admin/settings.php:160
+msgid "Consents"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-admin.php:132, ../includes/views/admin/logs.php:2, ../includes/views/admin/logs.php:12
+msgid "Logs"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:23
+msgid "ID"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:24, ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:45
+msgid "User ID"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:25, ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:46, ../includes/views/admin/logs.php:41, ../includes/views/admin/logs.php:71
+msgid "IP Address"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:26, ../includes/views/admin/logs.php:40, ../includes/views/admin/logs.php:60
+msgid "Email Address"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:27, ../includes/views/admin/logs.php:39, ../includes/views/admin/logs.php:49
+msgid "Username"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:28
+msgid "First Name"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:29
+msgid "Last Name"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:31, ../includes/views/admin/logs.php:43
+msgid "Date"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:102
+msgid "Delete"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-logs-list-table.php:109
+msgid "No logs found."
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:155, ../includes/class-uncode-toolkit-privacy-public.php:272
+msgid "Accept All"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:155, ../includes/class-uncode-toolkit-privacy-public.php:272
+msgid "I Agree"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:157, ../includes/class-uncode-toolkit-privacy-public.php:283
+msgid "Reject All"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:188
+msgid "We could not verify the the security token. Please try again."
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:236, ../includes/uncode-toolkit-privacy-helper-functions.php:88, ../includes/views/public/privacy-bar.php:23, ../includes/views/public/privacy-preferences-modal.php:16
+msgid "Privacy Preferences"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:240, ../includes/views/public/privacy-preferences-modal.php:61
+msgid "Save Preferences"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy-public.php:250, ../includes/views/public/privacy-preferences-modal.php:63
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy.php:141
+msgid "Empty data."
+msgstr ""
+
+#: ../includes/class-uncode-toolkit-privacy.php:125, ../includes/uncode-toolkit-privacy-logs-personal-data.php:115, ../includes/uncode-toolkit-privacy-logs-personal-data.php:136
+msgid "Invalid nonce."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:29
+msgid "Type a valid username."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:44
+msgid "Type a valid email address."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:59
+msgid "Type a valid IP address."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:74
+msgid "Type a valid cookie value."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:90
+msgid "Type a valid range of dates."
+msgstr ""
+
+#: ../includes/uncode-toolkit-privacy-logs-personal-data.php:131
+msgid "Logs deleted."
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-erasers.php:37
+msgid "Personal data within log %s has been retained."
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-erasers.php:34
+msgid "Removed personal data from log %s."
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:27
+msgid "Cookie Preferences Logs"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:47
+msgid "User Email"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:48
+msgid "User Nickname"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:49
+msgid "User Firstname"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:50
+msgid "User Lastname"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools-exporters.php:52
+msgid "Log Date"
+msgstr ""
+
+#: ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools.php:49, ../includes/legacy/class-uncode-toolkit-privacy-legacy-tools.php:50
+msgid "User Cookie Preferences"
+msgstr ""
+
+#: ../includes/views/admin/logs.php:35
+msgid "Search type"
+msgstr ""
+
+#: ../includes/views/admin/logs.php:42, ../includes/views/admin/logs.php:82
+msgid "Session Cookie"
+msgstr ""
+
+#: ../includes/views/admin/logs.php:93
+msgid "From Date"
+msgstr ""
+
+#: ../includes/views/admin/logs.php:104
+msgid "To Date"
+msgstr ""
+
+#: ../includes/views/admin/logs.php:118
+msgid "Search logs"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:2
+msgid "Settings"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:30
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:37
+msgid "-- Select --"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:46
+msgid "Privacy Banner Style"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:51, ../includes/views/admin/settings.php:63
+msgid "Default"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:52
+msgid "Float Style"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:58
+msgid "Accept Button Type"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:64
+msgid "Accept All Consents"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:70
+msgid "Show Reject Button"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:75, ../includes/views/admin/settings.php:87
+msgid "No"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:76, ../includes/views/admin/settings.php:88
+msgid "Yes"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:82
+msgid "Record Logs"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:94
+msgid "Record Type"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:99
+msgid "All Visitors"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:100
+msgid "Registered Users Only"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:107
+msgid "Privacy Center"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:110
+msgid "This section handles the Privacy Banner and Privacy Prefences main text."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:111, ../includes/views/admin/settings.php:142
+msgid "Important:"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:111
+msgid "If the Privacy Banner text is not filled out, the Privacy Banner will not show up."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:118
+msgid "Privacy Banner Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:127
+msgid "Privacy Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:132
+msgid "This will appear in the consent section of the privacy preference window."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:138
+msgid "Consent Notice"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:141
+msgid "This section handles the fallback text that will appear when a consent hasn't been approved yet."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:142
+msgid "No HTML code is allowed. Use the shortcode <code>[uncode_privacy_box]Your Text[/uncode_privacy_box]</code> to print a link that opens the preferences box."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:148
+msgid "Consent Notice Text"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:151
+msgid "This content is blocked. Please review your [uncode_privacy_box]Privacy Settings[/uncode_privacy_box]."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:162
+msgid "Type of consent"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:164
+msgid "Add consent"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:173, ../includes/views/admin/tmpl-consents.php:3
+msgid "Unregister this consent."
+msgstr ""
+
+#: ../includes/views/admin/settings.php:178, ../includes/views/admin/tmpl-consents.php:9, ../includes/views/public/privacy-preferences-modal.php:26
+msgid "Required"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:187, ../includes/views/admin/tmpl-consents.php:18
+msgid "Active by default"
+msgstr ""
+
+#: ../includes/views/admin/settings.php:197, ../includes/views/admin/tmpl-consents.php:27
+msgid "Consent description"
+msgstr ""
+
+#: ../includes/views/public/privacy-preferences-modal.php:8
+msgid "Privacy Preference Center"
+msgstr ""

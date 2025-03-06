@@ -1,0 +1,10 @@
+<div class="wpcf7-inline-wrapper">
+<p class="wpcf7-inline-field">[text* your-name placeholder "Full Name *"]</p>
+<p class="wpcf7-inline-field">[email* your-company placeholder "Company *"] </p>
+</div>
+<div class="wpcf7-inline-wrapper">
+<p class="wpcf7-inline-field">[text* your-email placeholder "Email *"]</p>
+<p class="wpcf7-inline-field">[email* your-tel placeholder "Telephone *"] </p>
+</div>
+<p style="display: none">[textarea your-message placeholder "Message"] </p>
+[submit class:btn class:btn-accent class:btn-flat class:btn-shadow-sm "Click the button"]

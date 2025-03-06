@@ -1,0 +1,10 @@
+<p>Name (required)<br />
+     [text* your-firstname class:form-fluid] </p>
+
+<p>Email (required)<br />
+    [email* your-email class:form-fluid] </p>
+
+<p>Message<br />
+    [textarea your-message 40x8] </p>
+
+[submit class:btn class:btn-accent "Click the button"]

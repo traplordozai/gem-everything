@@ -1,0 +1,91 @@
+/* Dashboard Grid Layout */
+.gem-app-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.gem-app-stat-card {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+}
+
+.gem-app-stat-card h2 {
+    margin: 0 0 10px;
+    font-size: 16px;
+    color: #23282d;
+}
+
+.gem-app-stat-value {
+    font-size: 32px;
+    font-weight: 600;
+    color: #0073aa;
+}
+
+/* Dashboard Sections */
+.gem-app-dashboard-sections {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.gem-app-section {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.gem-app-section h2 {
+    margin: 0 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+/* Activity List */
+.gem-app-activity-item {
+    padding: 10px 0;
+    border-bottom: 1px solid #f0f0f1;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.gem-app-activity-item:last-child {
+    border-bottom: none;
+}
+
+.activity-type {
+    background: #e5f5fa;
+    color: #0073aa;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.activity-description {
+    flex-grow: 1;
+}
+
+.activity-time {
+    color: #646970;
+    font-size: 12px;
+}
+
+/* Quick Actions */
+.gem-app-quick-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.gem-app-quick-actions .button {
+    text-align: center;
+    justify-content: center;
+}

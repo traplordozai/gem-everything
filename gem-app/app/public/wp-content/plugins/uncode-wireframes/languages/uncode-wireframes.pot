@@ -1,0 +1,3444 @@
+# Copyright (C) 2025 Uncode Wireframes
+# This file is distributed under the same license as the Uncode Wireframes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Uncode Wireframes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Undsgn\n"
+"Report-Msgid-Bugs-To: https://undsgn.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-uncode-wf-front.php:51, ../includes/class-uncode-wf-init.php:182
+msgid "Add Wireframe"
+msgstr ""
+
+#: ../includes/class-uncode-wf-import.php:113
+msgid "Wireframe placeholder"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:100, ../includes/class-uncode-wf-init.php:287
+msgid "Wireframes"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:101
+msgid "Append predefined Uncode Wireframes to the current layout."
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:181
+msgid "Add Element"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:183
+msgid "Please install %s"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:184
+msgid "Best use in a Content Block"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:187
+msgid "WooCommerce"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:188
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:230
+msgid "No title"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:251
+msgid "Search Wireframe"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:260, ../includes/class-uncode-wf-init.php:294
+msgid "Templates"
+msgstr ""
+
+#: ../includes/class-uncode-wf-init.php:301
+msgid "Sections"
+msgstr ""
+
+#: ../includes/core-functions.php:51
+msgid "All"
+msgstr ""
+
+#: ../includes/core-functions.php:52
+msgid "Contents"
+msgstr ""
+
+#: ../includes/core-functions.php:53
+msgid "Icons"
+msgstr ""
+
+#: ../includes/core-functions.php:54
+msgid "Call To Actions"
+msgstr ""
+
+#: ../includes/core-functions.php:55
+msgid "Headers"
+msgstr ""
+
+#: ../includes/core-functions.php:56
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/core-functions.php:57
+msgid "Blog"
+msgstr ""
+
+#: ../includes/core-functions.php:58
+msgid "News"
+msgstr ""
+
+#: ../includes/core-functions.php:59
+msgid "Galleries"
+msgstr ""
+
+#: ../includes/core-functions.php:60
+msgid "Grids"
+msgstr ""
+
+#: ../includes/core-functions.php:61
+msgid "Patterns"
+msgstr ""
+
+#: ../includes/core-functions.php:62
+msgid "Cards"
+msgstr ""
+
+#: ../includes/core-functions.php:63
+msgid "Shop"
+msgstr ""
+
+#: ../includes/core-functions.php:64
+msgid "Products"
+msgstr ""
+
+#: ../includes/core-functions.php:65
+msgid "Cart & Checkout"
+msgstr ""
+
+#: ../includes/core-functions.php:66
+msgid "Shop Utilities"
+msgstr ""
+
+#: ../includes/core-functions.php:67
+msgid "Counters"
+msgstr ""
+
+#: ../includes/core-functions.php:68
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../includes/core-functions.php:69
+msgid "Tabs Accordions"
+msgstr ""
+
+#: ../includes/core-functions.php:70
+msgid "Forms"
+msgstr ""
+
+#: ../includes/core-functions.php:71
+msgid "Maps"
+msgstr ""
+
+#: ../includes/core-functions.php:72
+msgid "Team Members"
+msgstr ""
+
+#: ../includes/core-functions.php:73
+msgid "Quotes"
+msgstr ""
+
+#: ../includes/core-functions.php:74
+msgid "Special"
+msgstr ""
+
+#: ../includes/core-functions.php:75
+msgid "Navigation"
+msgstr ""
+
+#: ../includes/core-functions.php:76
+msgid "Carousel Navigation"
+msgstr ""
+
+#: ../includes/core-functions.php:77
+msgid "Footers"
+msgstr ""
+
+#: ../includes/core-functions.php:78
+msgid "Popups"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Five-Fullwidth.php:21
+msgid "Blog Carousel Five Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Four-Solid-Fullwidth.php:21
+msgid "Blog Carousel Four Solid Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Four.php:21
+msgid "Blog Carousel Four"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Fullscreen.php:21
+msgid "Blog Carousel Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Six-Fullwidth.php:21
+msgid "Blog Carousel Six Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Stage-Padding-Dark.php:21
+msgid "Blog Carousel Stage Padding Dark"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Stage-Padding-No-Loop.php:21
+msgid "Blog Carousel Stage Padding No Loop"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Stage-Padding.php:21
+msgid "Blog Carousel Stage Padding"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Textual-Fullwidth.php:21
+msgid "Blog Carousel Textual Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Three.php:21
+msgid "Blog Carousel Three"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel-Two-Solid.php:21
+msgid "Blog Carousel Two Solid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Carousel.php:21
+msgid "Blog Carousel"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Column-Double.php:21
+msgid "Blog Column Double"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Column-Lateral.php:21
+msgid "Blog Column Lateral"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Column.php:21
+msgid "Blog Column"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Double.php:21
+msgid "Blog Double"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four-Alt.php:21
+msgid "Blog Four Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four-Center.php:21
+msgid "Blog Four Center"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four-Fullwidth.php:21
+msgid "Blog Four Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four-Solid-Alt-Fullwidth.php:21
+msgid "Blog Four Solid Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four-Solid.php:21
+msgid "Blog Four Solid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Four.php:21
+msgid "Blog Four"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Grid-Fluid.php:21
+msgid "Blog Four Fluid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Grid-Fullwidth-Alt.php:21
+msgid "Blog Grid Fullwidth Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Grid-Load-More.php:21
+msgid "Blog Grid Load More"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Grid-Pagination.php:21
+msgid "Blog Grid Pagination"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Journal.php:21
+msgid "Blog Journal"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Lateral-Alt.php:21
+msgid "Blog Lateral Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Lateral-Fullwidth.php:21
+msgid "Blog Lateral Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Lateral.php:21
+msgid "Blog Lateral"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Magazine.php:21
+msgid "Blog Magazine"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Masonry-Fullwidth.php:21
+msgid "Blog Masonry Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Masonry-Six-Solid.php:21
+msgid "Blog Masonry Six Solid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Masonry.php:21
+msgid "Blog Masonry"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Metro-Alt-Dark.php:21
+msgid "Blog Metro Alt Dark"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Metro-Alt-Fullwidth.php:21
+msgid "Blog Metro Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Metro-Alt.php:21
+msgid "Blog Metro Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Metro-Fullwidth.php:21
+msgid "Blog Metro"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Simple-Fullwidth.php:21
+msgid "Blog Simple Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Single-Fullscreen.php:21
+msgid "Blog Simple Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Single-Fullwidth-Left.php:21
+msgid "Blog Simple Fullwidth Left"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Six-Fullwidth.php:21
+msgid "Blog Six Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Six-Solid-Alt-Fullwidth.php:21
+msgid "Blog Six Solid Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Standard.php:21
+msgid "Blog Standard"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Sticky-Scroll-Simple.php:21
+msgid "Blog Sticky Scroll Simple"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Sticky-Scroll.php:21
+msgid "Blog Sticky Scroll"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Stories-Fullwidth.php:21
+msgid "Blog Stories Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Stories.php:21
+msgid "Blog Stories"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Table-Full-Width.php:21
+msgid "Blog Table Full Width"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Textual-Off-Grid.php:21
+msgid "Blog Textual Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Textual.php:21
+msgid "Blog Textual"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Alt.php:21
+msgid "Blog Three Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Center.php:21
+msgid "Blog Three Center"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Fullwidth.php:21
+msgid "Blog Three Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Portrait.php:21
+msgid "Blog Three Portrait"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Solid-Alt.php:21
+msgid "Blog Three Solid Alt"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Solid-Center.php:21
+msgid "Blog Three Solid Center"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three-Solid.php:21
+msgid "Blog Three Solid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Three.php:21
+msgid "Blog Three"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Titles-Block-Background.php:21
+msgid "Blog Titles Block Background"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Titles-Block-Mouse-Left-Dark.php:21
+msgid "Blog Titles Block Mouse Left Dark"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Titles-Block-Mouse-Left.php:21
+msgid "Blog Titles Block Mouse Left"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Titles-Block-Mouse.php:21
+msgid "Blog Titles Block Mouse"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Two-Solid.php:21
+msgid "Blog Two Solid"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Two.php:21
+msgid "Blog Two"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Vertical-BigText-Fullwidth.php:21
+msgid "Blog BigText Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/blogs/Blog-Wide.php:21
+msgid "Blog Wide"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Accent.php:21
+msgid "Call To Action Accent"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Background.php:21
+msgid "Call To Action Background"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Button-Alt.php:21
+msgid "Call To Action Button Alt"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Button-Dark.php:21
+msgid "Call To Action Button Dark"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Button.php:21
+msgid "Call To Action Button"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Buttons-Alt.php:21
+msgid "Call To Action Buttons Alt"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Buttons.php:21
+msgid "Call To Action Buttons"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Massive.php:21
+msgid "Call To Action Massive"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Media-Alt.php:21
+msgid "Call To Action Media Alt"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Media.php:21
+msgid "Call To Action Media"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Socials.php:21
+msgid "Call To Action Socials"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Split-Fullscreen-Alt.php:21
+msgid "Call To Action Split Fullscreen Alt"
+msgstr ""
+
+#: ../includes/wireframes/call-to-action/Call-To-Action-Split-Fullscreen.php:21
+msgid "Call To Action Split Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Eight.php:22
+msgid "Cards Stacked Eight"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Five.php:22
+msgid "Cards Stacked Five"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Four.php:22
+msgid "Cards Stacked Four"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-One.php:22
+msgid "Cards Stacked One"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Seven.php:22
+msgid "Cards Stacked Seven"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Six.php:22
+msgid "Cards Stacked Six"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Three.php:22
+msgid "Cards Stacked Three"
+msgstr ""
+
+#: ../includes/wireframes/cards/Cards-Stacked-Two.php:22
+msgid "Cards Stacked Two"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Absolute-Center.php:21
+msgid "Carousel Nav Absolute Center"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Absolute-Justify.php:21
+msgid "Carousel Nav Absolute Justify"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Arrows-Dots-Alt.php:21
+msgid "Carousel Nav Arrows Dots Alt"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Arrows-Dots.php:21
+msgid "Carousel Nav Arrows Dots"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Arrows-Inside.php:21
+msgid "Carousel Nav Arrows Inside"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Arrows-Outside.php:21
+msgid "Carousel Nav Arrows Outside"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Arrows-Window.php:21
+msgid "Carousel Nav Arrows Window"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Relative-Center.php:21
+msgid "Carousel Nav Relative Center"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Relative-Justify.php:21
+msgid "Carousel Nav Relative Justify"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Relative-Left.php:21
+msgid "Carousel Nav Relative Left"
+msgstr ""
+
+#: ../includes/wireframes/carousel-navigation/Carousel-Nav-Relative-Top.php:21
+msgid "Carousel Nav Relative Top"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/01-Cart-Basic.php:21
+msgid "Cart Basic"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/01-Checkout-Basic.php:21
+msgid "Checkout Basic"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/02-Cart-Blocks.php:21
+msgid "Cart Blocks"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/02-Checkout-Blocks.php:21
+msgid "Checkout Blocks"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/03-Cart-Bold.php:21
+msgid "Cart Bold"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/03-Checkout-Bold.php:21
+msgid "Checkout Bold"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/04-Cart-Boxed.php:21
+msgid "Cart Boxed"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/04-Checkout-Boxed.php:21
+msgid "Checkout Boxed"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/05-Cart-Classic.php:21
+msgid "Cart Classic"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/05-Checkout-Classic.php:21
+msgid "Checkout Classic"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/06-Cart-Columns.php:21
+msgid "Cart Columns"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/06-Checkout-Columns.php:21
+msgid "Checkout Columns"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/07-Cart-Creative.php:21
+msgid "Cart Creative"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/07-Checkout-Creative.php:21
+msgid "Checkout Creative"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/08-Cart-Fancy.php:21
+msgid "Cart Fancy"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/08-Checkout-Fancy.php:21
+msgid "Checkout Fancy"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/09-Cart-Fluid.php:21
+msgid "Cart Fluid"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/09-Checkout-Fluid.php:21
+msgid "Checkout Fluid"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/10-Cart-Full-Dark.php:21
+msgid "Cart Full Dark"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/10-Checkout-Full-Dark.php:21
+msgid "Checkout Full Dark"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/11-Cart-Full.php:21
+msgid "Cart Full"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/11-Checkout-Full.php:21
+msgid "Checkout Full"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/12-Cart-Vertical.php:21
+msgid "Cart Vertical"
+msgstr ""
+
+#: ../includes/wireframes/cart-checkout/12-Checkout-Vertical.php:21
+msgid "Checkout Vertical"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Architect.php:21
+msgid "Content About Architect"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Blog-Writer.php:21
+msgid "Content About Blog Writer"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Corporation.php:21
+msgid "Content About Corporation"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Creative-Dark.php:21
+msgid "Content About Creative Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Creative-Light.php:21
+msgid "Content About Creative Light"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Services.php:21
+msgid "Content About Services"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-About-Wide-Lists.php:21
+msgid "Content About Wide Lists"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Accordion-Alt.php:21
+msgid "Content Accordion Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Accordion.php:21
+msgid "Content Accordion"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Alternate-Text.php:21
+msgid "Content Alternate Text"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Asym-Media-Alt.php:21
+msgid "Content Asym Media Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Asym-Media.php:21
+msgid "Content Asym Media"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Author-Grid.php:21
+msgid "Content Author Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Author-Simple.php:21
+msgid "Content Author Simple"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Banner-Boxed-Wide.php:21
+msgid "Content Banner Boxed Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Banner-Fullwidth.php:21
+msgid "Content Banner Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Banners-Creative-Split.php:21
+msgid "Content Banners Creative Split"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Banners-Kindergarten.php:21
+msgid "Content Banners Kindergarten"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Banners.php:21
+msgid "Content Banners"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Before-and-After.php:21
+msgid "Content Before & After"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-BigText-Lateral.php:21
+msgid "Content BigText Lateral"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Boxed-Wide.php:21
+msgid "Content Boxed Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Cards-Dark.php:21
+msgid "Content Cards Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Cards-Light.php:21
+msgid "Content Cards Light"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Columns-Links.php:21
+msgid "Content Columns Links"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Columns.php:21
+msgid "Content Columns"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Contact-Creative.php:21
+msgid "Content Contact Creative"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Content-Carousel-Alt-Dark.php:21
+msgid "Content Content Carousel Alt Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Content-Carousel-Alt.php:21
+msgid "Content Content Carousel Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Content-Carousel.php:21
+msgid "Content Content Carousel"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Creative-About.php:21
+msgid "Content Creative About"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Creative-Designers.php:21
+msgid "Content Creative Designers"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Creative-Product.php:21
+msgid "Content Creative Product"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Customer-Reviews.php:21
+msgid "Content Customer Reviews"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Details-Images-Dark.php:21
+msgid "Content Details Images Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Details-Images.php:21
+msgid "Content Details Images"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Equal-Height-Justify-Dark.php:21
+msgid "Content Equal Height Justify Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Equal-Height-Justify-Light.php:21
+msgid "Content Equal Height Justify Light"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Equal-Height-Numbers.php:21
+msgid "Content Equal Height Numbers"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Equal-Height.php:21
+msgid "Content Equal Height"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Events.php:21
+msgid "Content Events"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Evidence-Off-Grid.php:21
+msgid "Content Evidence Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Features-Focus.php:21
+msgid "Content Features Focus"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Features.php:21
+msgid "Content Features"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Focus-Creative.php:21
+msgid "Content Focus Creative"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Focus-with-Images.php:21
+msgid "Content Focus with Images"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Grid-Icons.php:21
+msgid "Content Grid Icons"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-BigText.php:21
+msgid "Content Heading BigText"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-Columns.php:21
+msgid "Content Heading Columns"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-Image-Wide-Alt.php:21
+msgid "Content Heading Image Wide Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-Image-Wide.php:21
+msgid "Content Heading Image Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-Shift-Background.php:21
+msgid "Content Heading Shift Background"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Heading-Text-Columns.php:21
+msgid "Content Heading Text Columns"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Headline-Center.php:21
+msgid "Content Headline Center"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-History-Accordion.php:21
+msgid "Content History Accordion"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Cards-Parallax-Alt.php:21
+msgid "Content Image Cards Parallax Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Cards-Parallax.php:21
+msgid "Content Image Cards Parallax"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details-Alt-Fullwidth-Dark.php:21
+msgid "Content Image Details Alt Fullwidth Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details-Alt-Fullwidth.php:21
+msgid "Content Image Details Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details-Alt.php:21
+msgid "Content Image Details Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details-Fullwidth-Dark.php:21
+msgid "Content Image Details Fullwidth Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details-Fullwidth.php:21
+msgid "Content Image Details Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Details.php:21
+msgid "Content Image Details"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Evidence.php:21
+msgid "Content Image Evidence"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Fullwidth.php:21
+msgid "Content Image Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-Shadow.php:21
+msgid "Content Image Shadow"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Image-with-Lists.php:21
+msgid "Content Image with Lists"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Images-Off-Grid.php:21
+msgid "Content Image Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Images-Parallax.php:21
+msgid "Content Images Parallax"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Images-Texts.php:21
+msgid "Content Images Texts"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Info-Creative.php:21
+msgid "Content Info Creative"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Intro-Text-Dark.php:21
+msgid "Content Intro Text Darks"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Intro-Text.php:21
+msgid "Content Intro Text"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Justify-Banner.php:21
+msgid "Content Justify Banner"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Justify-Wide-Alt.php:21
+msgid "Content Justify Wide Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Justify-Wide.php:21
+msgid "Content Justify Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Justify-with-Image.php:21
+msgid "Content Justify with Image"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Justify-with-Video-Wide.php:21
+msgid "Content Justify with Video Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-List-Services.php:22
+msgid "Content List Services"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Media-Off-Grid.php:21
+msgid "Content Media Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Medias-Off-Grid-Alt.php:21
+msgid "Content Medias Off-Grid Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Medias-Off-Grid.php:21
+msgid "Content Medias Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Menu-Tabs.php:21
+msgid "Content Menu Tabs"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Our-History.php:21
+msgid "Content our History"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Portfolio-Colours-Sample.php:21
+msgid "Content Portfolio Colours Sample"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Portfolio-Details.php:21
+msgid "Content Portfolio Details"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Portfolio-With-Link.php:21
+msgid "Content Portfolio With Link"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Reviews-Boxed.php:21
+msgid "Content Reviews Boxed"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Reviews-Large.php:21
+msgid "Content Reviews Large"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shape-Dividers-Curve.php:21
+msgid "Content Shape Dividers Curve"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shape-Dividers-Tilt.php:21
+msgid "Content Shape Dividers Tilt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shape-Dividers-Waves.php:21
+msgid "Content Shape Dividers Waves"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shape-Image.php:21
+msgid "Content Shape Image"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shop-Furniture-About.php:21
+msgid "Content Shop Furniture About"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Shop-Furniture-Banner.php:21
+msgid "Content Shop Furniture Banner"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Slider-Fullwidth.php:21
+msgid "Content Slider Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Split-Dark.php:21
+msgid "Content Split Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Split-Focus-Dark.php:21
+msgid "Content Split Focus Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Split-Grid.php:21
+msgid "Content Split Grid"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Split-Simple.php:21
+msgid "Content Split Simple"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Split.php:21
+msgid "Content Split"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Tabs.php:21
+msgid "Content Tabs"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Image-Alt-Dark.php:21
+msgid "Content Text Image Alt Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Image-Alt.php:21
+msgid "Content Text Image Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Image-Dark.php:21
+msgid "Content Text Image Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Image.php:21
+msgid "Content Text Image"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Narrow.php:21
+msgid "Content Text Narrow"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-Split-Image-Fullwidth.php:21
+msgid "Content Text Split Image Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Text-with-Foreword.php:21
+msgid "Content Text with Foreword"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Texts-Image.php:21
+msgid "Content Texts Image"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Three-Banners.php:21
+msgid "Content Three Banners"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Three-Images.php:21
+msgid "Content Three Images"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Banners.php:21
+msgid "Content Toggle Banners"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Big-Dark.php:21
+msgid "Content Toggle Big Dark"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Big-Light.php:21
+msgid "Content Toggle Big Light"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Button.php:21
+msgid "Content Toggle Button"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Simple-Alt.php:21
+msgid "Content Toggle Simple Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Toggle-Simple.php:21
+msgid "Content Toggle Simple"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Vertical-Justify-Wide-Alt.php:21
+msgid "Content Vertical Justify Wide Alt"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Vertical-Justify-Wide.php:21
+msgid "Content Vertical Justify Wide"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Video-Enlarge.php:22
+msgid "Content Video Enlarge"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-Wide-Justify.php:21
+msgid "Content Wide Justify"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-with-Image-Cards.php:21
+msgid "Content with Image Cards"
+msgstr ""
+
+#: ../includes/wireframes/contents/Content-with-Images-Carousel.php:21
+msgid "Content with Images Carousel"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Background-Fullwidth.php:21
+msgid "Counter Background Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Background.php:21
+msgid "Counter Background"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Center.php:21
+msgid "Counter Center"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Charts-Heading.php:21
+msgid "Counter Charts Heading"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Charts-Text.php:21
+msgid "Counter Charts Text"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Corporation.php:21
+msgid "Counter Corporation"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Creative-Alt.php:21
+msgid "Counter Creative Alt"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Creative.php:21
+msgid "Counter Creative"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Evidence-Alt-Dark.php:21
+msgid "Counter Evidence Alt Dark"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Evidence-Alt.php:21
+msgid "Counter Evidence Alt"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Evidence.php:21
+msgid "Counter Evidence"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Header.php:21
+msgid "Counter Header"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Heading-Image.php:21
+msgid "Counter Heading Image"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Heading.php:21
+msgid "Counter Heading"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Innovators.php:22
+msgid "Counter Innovators"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Left.php:21
+msgid "Counter Left"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Off-Grid.php:21
+msgid "Counter Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Progress-Bar-Equal-Height.php:21
+msgid "Counter Progress Bar Equal Height"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Progress-Bars-Off-Grid.php:21
+msgid "Counter Progress Bars Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Separate-Columns.php:21
+msgid "Counter Columns"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Text-Dark.php:21
+msgid "Counter Text Dark"
+msgstr ""
+
+#: ../includes/wireframes/counters/Counter-Text.php:21
+msgid "Counter Text"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Culture.php:21
+msgid "Footer Blog Culture"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Editorial.php:21
+msgid "Footer Blog Editorial"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Gazette.php:21
+msgid "Footer Blog Gazette"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-List.php:21
+msgid "Footer Blog List"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Masonry.php:21
+msgid "Footer Blog Masonry"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Metro.php:21
+msgid "Footer Blog Metro"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Newspaper.php:21
+msgid "Footer Blog Newspaper"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Review.php:21
+msgid "Footer Blog Review"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Travel.php:21
+msgid "Footer Blog Travel"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Blog-Writer.php:21
+msgid "Footer Blog Writer"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Agency.php:21
+msgid "Footer Classic Agency"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Business.php:21
+msgid "Footer Classic Business"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Consultants.php:21
+msgid "Footer Classic Consultants"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Hotel.php:21
+msgid "Footer Classic Hotel"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Innovators.php:22
+msgid "Footer Classic Innovators"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Lottie.php:21
+msgid "Footer Classic Lottie"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Medical.php:21
+msgid "Footer Classic Medical"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Photographer.php:21
+msgid "Footer Classic Photographer"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Restaurant-Alt.php:21
+msgid "Footer Classic Restaurant Alt"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Workshop.php:21
+msgid "Footer Classic Workshop"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Classic-Yoga.php:21
+msgid "Footer Classic Yoga"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Agency.php:21
+msgid "Footer Creative Agency"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Bistrot.php:21
+msgid "Footer Creative Bistrot"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Designers.php:21
+msgid "Footer Creative Designers"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Event.php:21
+msgid "Footer Creative Event"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Freelance.php:21
+msgid "Footer Creative Freelance"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Hub.php:22
+msgid "Footer Creative Hub"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Marketing.php:21
+msgid "Footer Creative Marketing"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Persona.php:21
+msgid "Footer Creative Persona"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Product.php:21
+msgid "Footer Creative Product"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Prototype.php:22
+msgid "Footer Creative Prototype"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Creative-Studio.php:21
+msgid "Footer Creative Studio"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Landing.php:21
+msgid "Footer Landing"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Lawyer.php:21
+msgid "Footer Lawyer"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Marketing.php:21
+msgid "Footer Marketing"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Agency.php:21
+msgid "Footer Portfolio Agency"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Cards.php:21
+msgid "Footer Portfolio Cards"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Collective.php:21
+msgid "Footer Portfolio Collective"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Freelance.php:21
+msgid "Footer Portfolio Freelance"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Metro.php:21
+msgid "Footer Portfolio Metro"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Parallax.php:21
+msgid "Footer Portfolio Parallax"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Photo.php:21
+msgid "Footer Portfolio Photo"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Studio-New.php:21
+msgid "Footer Portfolio Studio New"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Portfolio-Studio.php:21
+msgid "Footer Portfolio Studio"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Ajax.php:21
+msgid "Footer Shop Ajax"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Beauty.php:21
+msgid "Footer Shop Beauty"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Bold.php:21
+msgid "Footer Shop Bold"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Boutique.php:21
+msgid "Footer Shop Boutique"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Carousel.php:21
+msgid "Footer Shop Carousel"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Cosmetic.php:21
+msgid "Footer Shop Cosmetic"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Crafter.php:21
+msgid "Footer Shop Crafter"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Design.php:21
+msgid "Footer Shop Design"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Furniture.php:21
+msgid "Footer Shop Furniture"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Landing.php:21
+msgid "Footer Shop Landing"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Outdoor.php:21
+msgid "Footer Shop Outdoor"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Shop-Streetwear.php:21
+msgid "Footer Shop Streetwear"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Simple-Fullwidth.php:21
+msgid "Footer Simple Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Simple.php:21
+msgid "Footer Simple"
+msgstr ""
+
+#: ../includes/wireframes/footers/Footer-Studio.php:21
+msgid "Footer Studio"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Agency.php:21
+msgid "Form Agency"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Classic.php:21
+msgid "Form Classic"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Contact.php:21
+msgid "Form Contact"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Corporate.php:21
+msgid "Form Corporate"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Equal-Heights.php:21
+msgid "Form Equal Heights"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Agency-Dark.php:21
+msgid "Form Newsletter Agency Dark"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Agency.php:21
+msgid "Form Newsletter Agency"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Call-To-Action-Background.php:21
+msgid "Form Newsletter Call To Action Background"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Call-To-Action.php:21
+msgid "Form Newsletter Call To Action"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Equal-Heights.php:21
+msgid "Form Newsletter Equal Heights"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Inline-Dark.php:21
+msgid "Form Newsletter Inline Dark"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Inline.php:21
+msgid "Form Newsletter Inline"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter-Narrow.php:21
+msgid "Form Newsletter Narrow"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Newsletter.php:21
+msgid "Form Newsletter"
+msgstr ""
+
+#: ../includes/wireframes/forms/Form-Simple.php:21
+msgid "Form Simple"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Caption.php:21
+msgid "Gallery Caption"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Carousel-Fullwidth.php:21
+msgid "Gallery Carousel Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Carousel-Stage-Padding.php:21
+msgid "Gallery Carousel Stage Padding"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Carousel.php:21
+msgid "Gallery Carousel"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Creative-Product.php:21
+msgid "Gallery Creative Product"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Grid-Fullwidth.php:21
+msgid "Gallery Grid Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Heading-Shift.php:21
+msgid "Gallery Heading Shift"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Justify-Fullwidth.php:21
+msgid "Gallery Justify Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Justify.php:21
+msgid "Gallery Justify"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Logo-Carousel.php:21
+msgid "Gallery Logo Carousel"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Logo-Grid-Dark.php:21
+msgid "Gallery Logo Grid Dark"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Logo-Grid.php:21
+msgid "Gallery Logo Grid"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Logo-Lateral.php:21
+msgid "Gallery Logo Lateral"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Masonry-Alt-Fullwidth.php:21
+msgid "Gallery Masonry Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Masonry-Fullwidth-Dark.php:21
+msgid "Gallery Masonry Fullwidth Dark"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Masonry-Fullwidth.php:21
+msgid "Gallery Masonry Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Masonry.php:21
+msgid "Gallery Masonry"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Prototype.php:22
+msgid "Gallery Prototype"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Simple.php:21
+msgid "Gallery Simple"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Slideshow.php:21
+msgid "Gallery Slideshow"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Sticky-Scroll-Dark.php:21
+msgid "Gallery Sticky Scroll Dark"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Sticky-Scroll-Fullscreen.php:21
+msgid "Gallery Sticky Scroll Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Sticky-Scroll-Title.php:21
+msgid "Gallery Sticky Scroll Title"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Gallery-Toogle-Dark.php:21
+msgid "Gallery Toogle Dark"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Marquee-Vertical.php:21
+msgid "Marquee Vertical"
+msgstr ""
+
+#: ../includes/wireframes/galleries/Media-Gallery-Marquee.php:21
+msgid "Media Gallery Marquee"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Alternate.php:21
+msgid "Grid Alternate"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Backgrounds.php:21
+msgid "Grid Backgrounds"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Banners.php:21
+msgid "Grid Banners"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Alt.php:21
+msgid "Grid Bento Alt"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Cards.php:21
+msgid "Grid Bento Cards"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Clean.php:21
+msgid "Grid Bento Clean"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Creative.php:21
+msgid "Grid Bento Creative"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Innovators.php:22
+msgid "Grid Bento Innovators"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Rows.php:21
+msgid "Grid Bento Rows"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Bento-Simple.php:21
+msgid "Grid Bento Simple"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Creative-Alt.php:21
+msgid "Grid Creative Alt"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Creative-Event.php:21
+msgid "Grid Creative Event"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Creative.php:21
+msgid "Grid Creative"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Focus.php:21
+msgid "Grid Focus"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Images-Creative.php:21
+msgid "Grid Images Creative"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Justify.php:21
+msgid "Grid Justify"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Media-Button.php:21
+msgid "Grid Media Button"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Sections.php:21
+msgid "Grid Media Sections"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Split-Hours-List.php:21
+msgid "Grid Split Hours List"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Texts-Alt.php:21
+msgid "Grid Texts Alt"
+msgstr ""
+
+#: ../includes/wireframes/grids/Grid-Texts.php:21
+msgid "Grid Texts"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-About-Creative.php:21
+msgid "Header About Creative"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Author.php:21
+msgid "Header Blog Author"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Editorial.php:21
+msgid "Header Blog Editorial"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Essay.php:21
+msgid "Header Blog Essay"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Journal.php:21
+msgid "Header Blog Journal"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Masonry.php:21
+msgid "Header Blog Masonry"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Newspaper.php:21
+msgid "Header Blog Newspaper"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Blog-Writer.php:21
+msgid "Header Blog Writer"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Consultants-Alt.php:21
+msgid "Header Classic Consultants Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Consultants.php:21
+msgid "Header Classic Consultants"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Firm.php:21
+msgid "Header Classic Firm"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Help-Center.php:21
+msgid "Header Classic Help Center"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Hotel.php:21
+msgid "Header Classic Hotel"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Innovators.php:22
+msgid "Header Classic Innovators"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Landing.php:21
+msgid "Header Classic Landing"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Lawyer.php:21
+msgid "Header Classic Lawyer"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Logistic.php:21
+msgid "Header Classic Logistic"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Medical.php:21
+msgid "Header Classic Medical"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Restaurant-Alt.php:21
+msgid "Header Classic Restaurant Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Restaurant.php:21
+msgid "Header Classic Restaurant"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Start-Up.php:21
+msgid "Header Classic Start-Up"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Studio.php:21
+msgid "Header Classic Studio"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Workshop.php:21
+msgid "Header Classic Workshop"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Classic-Yoga.php:21
+msgid "Header Classic Yoga"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Architect.php:21
+msgid "Header Creative Architect"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Bistrot.php:21
+msgid "Header Creative Bistrot"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Company.php:21
+msgid "Header Creative Company"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Corporation.php:21
+msgid "Header Creative Corporation"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Designer.php:21
+msgid "Header Creative Designer"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Digital-Agency.php:21
+msgid "Header Creative Digital Agency"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Director.php:21
+msgid "Header Creative Director"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Event-Alt.php:21
+msgid "Header Creative Event Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Freelance.php:21
+msgid "Header Creative Freelance"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Landing.php:21
+msgid "Header Creative Landing"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Marketing-Alt.php:21
+msgid "Header Creative Marketing Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Marketing.php:21
+msgid "Header Creative Marketing"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Product.php:21
+msgid "Header Creative Product"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Creative-Software.php:21
+msgid "Header Creative Software"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Evidence.php:21
+msgid "Header Evidence"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Justify-Four.php:21
+msgid "Header Justify Four"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Justify-Three.php:21
+msgid "Header Justify Three"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Agency.php:21
+msgid "Header Portfolio Agency"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Bureau.php:21
+msgid "Header Portfolio Büreau"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Cards.php:21
+msgid "Header Portfolio Cards"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Design-Studio.php:22
+msgid "Header Portfolio Design Studio"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Developer.php:21
+msgid "Header Portfolio Developer"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Freelance.php:21
+msgid "Header Portfolio Freelance"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Metro.php:21
+msgid "Header Portfolio Metro"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Portfolio-Studio.php:21
+msgid "Header Portfolio Studio"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Bold.php:21
+msgid "Header Shop Bold"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Boutique.php:21
+msgid "Header Shop Boutique"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Cosmetic.php:21
+msgid "Header Shop Cosmetic"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Crafter.php:21
+msgid "Header Shop Crafter"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Creative-Alt.php:21
+msgid "Header Shop Creative Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Creative.php:21
+msgid "Header Shop Creative"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Furniture-Alt.php:21
+msgid "Header Shop Furniture Alt"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Shop-Off-Grid.php:21
+msgid "Header Shop Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Classic-Agency.php:21
+msgid "Header Slider Classic Agency"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Classic-Business.php:21
+msgid "Header Slider Classic Business"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Classic-Photographer.php:21
+msgid "Header Slider Classic Photographer"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Classic-Travel.php:21
+msgid "Header Slider Classic Travel"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Creative-Agency.php:21
+msgid "Header Slider Creative Agency"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Slider-Text-Image.php:21
+msgid "Header Slider Text Image"
+msgstr ""
+
+#: ../includes/wireframes/headers/Header-Step.php:21
+msgid "Header Step"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Background.php:21
+msgid "Icon Background"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Big-Heading.php:21
+msgid "Icon Big Heading"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Center.php:21
+msgid "Icon Center"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Equal-Heights.php:21
+msgid "Icon Equal Heights"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Four-Lateral.php:21
+msgid "Icon Four Lateral"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Fullwidth.php:21
+msgid "Icon Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading-Image-Fullwidth.php:21
+msgid "Icon Heading Image Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading-Image.php:21
+msgid "Icon Heading Image"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading-Lateral-Dark.php:21
+msgid "Icon Heading Lateral Dark"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading-Lateral.php:21
+msgid "Icon Heading Lateral"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading-Shift.php:21
+msgid "Icon Heading Shift"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Heading.php:21
+msgid "Icon Heading"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Image-Centred.php:21
+msgid "Icon Image Centred"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Left-Alt.php:21
+msgid "Icon Left Alt"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Left-Dark.php:21
+msgid "Icon Left Dark"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Left-Top.php:21
+msgid "Icon Left Top"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Left.php:21
+msgid "Icon Left"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Links.php:21
+msgid "Icon Links"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Lists-Heading.php:21
+msgid "Icon Lists Heading"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Lists.php:21
+msgid "Icon Lists"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Media-Features.php:21
+msgid "Icon Media Features"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Separators.php:21
+msgid "Icon Separators"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Socials-Alt.php:21
+msgid "Icon Socials Alt"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Socials-Dark.php:21
+msgid "Icon Socials Dark"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Socials.php:21
+msgid "Icon Socials"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Split.php:21
+msgid "Icon Split"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Stacked.php:21
+msgid "Icon Stacked"
+msgstr ""
+
+#: ../includes/wireframes/icons/Icon-Video-Background.php:21
+msgid "Icon Video Background"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Classic.php:21
+msgid "Map Classic"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Details.php:21
+msgid "Map Details"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Double.php:21
+msgid "Map Double"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Evidence.php:21
+msgid "Map Evidence"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Fullwidth.php:21
+msgid "Map Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Icons.php:21
+msgid "Map Icons"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Sections.php:21
+msgid "Map Sections"
+msgstr ""
+
+#: ../includes/wireframes/maps/Map-Split.php:21
+msgid "Map Split"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Default-Labels.php:21
+msgid "Navigation Default Labels"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Default-Thumbnails.php:21
+msgid "Navigation Default Thumbnails"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Default-Tiny.php:21
+msgid "Navigation Default Tiny"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Default-Wide.php:21
+msgid "Navigation Default Wide"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Posts-Split.php:21
+msgid "Navigation Posts Split"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Posts-Titles.php:21
+msgid "Navigation Posts Titles"
+msgstr ""
+
+#: ../includes/wireframes/navigation/Navigation-Posts-Wide.php:21
+msgid "Navigation Posts Wide"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Architect-Parallax.php:21
+msgid "News Architect Parallax"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Artist.php:21
+msgid "News Artist"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Bureau.php:21
+msgid "News Bureau"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Classic-Dark.php:21
+msgid "News Carousel Classic Dark"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Classic.php:21
+msgid "News Carousel Classic"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Firm.php:21
+msgid "News Carousel Firm"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Stage-Padding-Dark.php:21
+msgid "News Carousel Stage Padding Dark"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Stage-Padding.php:21
+msgid "News Carousel Stage Padding"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Carousel-Start-Up.php:21
+msgid "News Carousel Start-Up"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Classic-Innovators.php:22
+msgid "News Classic Innovators"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Consultants.php:21
+msgid "News Consultants"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Corporation-Alt.php:21
+msgid "News Corporation Alt"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Corporation.php:21
+msgid "News Corporation"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Creative-Agency.php:21
+msgid "News Creative Agency"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Creative-Designers.php:21
+msgid "News Creative Designers"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Designers.php:21
+msgid "News Designers"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Digital-Agency.php:21
+msgid "News Digital Agency"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Director.php:21
+msgid "News Director"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Essay-One.php:21
+msgid "News Essay One"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Essay-Three.php:21
+msgid "News Essay Three"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Essay-Two.php:21
+msgid "News Essay Two"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Freelance.php:21
+msgid "News Freelance"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Landing.php:21
+msgid "News Landing"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Lawyer.php:21
+msgid "News Lawyer"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Marketing.php:21
+msgid "News Marketing"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Marquee.php:21
+msgid "News Marquee"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Metro-Highlights.php:21
+msgid "News Metro Highlights"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Photographer.php:21
+msgid "News Photographer"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Portfolio-Agency-Dark.php:21
+msgid "News Portfolio Agency Dark"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Portfolio-Agency.php:21
+msgid "News Portfolio Agency"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Portfolio-Studio.php:21
+msgid "News Portfolio Studio"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Rotated.php:21
+msgid "News Rotated"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Boutique.php:21
+msgid "News Shop Boutique"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Cosmetic.php:21
+msgid "News Shop Cosmetic"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Creative.php:21
+msgid "News Shop Creative"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Forniture.php:21
+msgid "News Shop Forniture"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Techie-Dark.php:21
+msgid "News Shop Techie Dark"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Shop-Techie.php:21
+msgid "News Shop Techie"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Simple.php:21
+msgid "News Simple"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Single-Fullwidth.php:21
+msgid "News Single Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Stacked.php:22
+msgid "News Stacked"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Sticky-Wide-Alt.php:21
+msgid "News Sticky Wide Alt"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Sticky-Wide.php:21
+msgid "News Sticky Wide"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Studio.php:21
+msgid "News Studio"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Table-Center-Dark.php:21
+msgid "News Table Center Dark"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Table-Center.php:21
+msgid "News Table Center"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Table-Variation.php:21
+msgid "News Table Variation"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Table-with-Image.php:21
+msgid "News Table with Image"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Table.php:21
+msgid "News Table"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Textual.php:21
+msgid "News Textual"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Titles-Block-Mouse-Left-Narrow.php:21
+msgid "News Titles Block Mouse Left Narrow"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Titles-Inline-Mouse-Left.php:21
+msgid "News Titles Inline Mouse Left"
+msgstr ""
+
+#: ../includes/wireframes/news/News-Travel.php:21
+msgid "News Travel"
+msgstr ""
+
+#: ../includes/wireframes/news/News-with-Focus.php:21
+msgid "News with Focus"
+msgstr ""
+
+#: ../includes/wireframes/news/Shop-Stacked.php:22
+msgid "Shop Stacked"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Eight.php:21
+msgid "Pattern Grid Eight"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Five.php:21
+msgid "Pattern Grid Five"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Four.php:21
+msgid "Pattern Grid Four"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-One.php:21
+msgid "Pattern Grid One"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Seven.php:21
+msgid "Pattern Grid Seven"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Six.php:21
+msgid "Pattern Grid Six"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Three.php:21
+msgid "Pattern Grid Three"
+msgstr ""
+
+#: ../includes/wireframes/patterns/Pattern-Grid-Two.php:21
+msgid "Pattern Grid Two"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Blog-Essay.php:21
+msgid "Popup Blog Essay"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Classic-Logistic.php:21
+msgid "Popup Classic Logistic"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Classic-Workshop.php:21
+msgid "Popup Classic Workshop"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Creative-Bistrot.php:21
+msgid "Popup Creative Bistrot"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Creative-Event.php:21
+msgid "Popup Creative Event"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Creative-Software.php:21
+msgid "Popup Creative Software"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Shop-Creative.php:21
+msgid "Popup Shop Creative"
+msgstr ""
+
+#: ../includes/wireframes/popups/Popup-Shop-Retail.php:21
+msgid "Popup Shop Retail"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Alternate.php:21
+msgid "Portfolio Alternate"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Dark-Wide.php:21
+msgid "Portfolio Carousel Dark Wide"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Fullscreen.php:21
+msgid "Portfolio Carousel Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Fullwidth.php:21
+msgid "Portfolio Carousel Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-No-Loop-Fullwidth.php:21
+msgid "Portfolio Carousel No Loop Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Scaled.php:21
+msgid "Portfolio Carousel Scaled"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Text.php:21
+msgid "Portfolio Carousel Text"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Three-No-Loop-Fullwidth.php:21
+msgid "Portfolio Carousel Three No Loop Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Three.php:21
+msgid "Portfolio Carousel Three"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Two-Fullwidth.php:21
+msgid "Portfolio Carousel Two Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Carousel-Two.php:21
+msgid "Portfolio Carousel Two"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic-Agency-Dark.php:21
+msgid "Portfolio Classic Agency Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic-Agency.php:21
+msgid "Portfolio Classic Agency"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic-Firm-Dark.php:21
+msgid "Portfolio Classic Firm Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic-Firm.php:21
+msgid "Portfolio Classic Firm"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic-Photographer.php:21
+msgid "Portfolio Classic Photographer"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Classic.php:21
+msgid "Portfolio Classic"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Creative-Agency.php:21
+msgid "Portfolio Creative Agency"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Creative-Designers-New.php:21
+msgid "Portfolio Creative Designers New"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Creative-Designers.php:21
+msgid "Portfolio Creative Designers"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Creative-Marketing.php:21
+msgid "Portfolio Creative Marketing"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Creative-Studio.php:21
+msgid "Portfolio Creative Studio"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Digital-Agency.php:21
+msgid "Portfolio Digital Agency"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Director.php:21
+msgid "Portfolio Director"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Four-Fullwidth.php:21
+msgid "Portfolio Four Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Four-Overlay-Fullscreen.php:21
+msgid "Portfolio Four Overlay Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Lateral-Fullscreen.php:21
+msgid "Portfolio Lateral Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Lateral.php:21
+msgid "Portfolio Lateral"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Marquee.php:21
+msgid "Portfolio Marquee"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Masonry-Fullscreen.php:21
+msgid "Portfolio Masonry Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Masonry-Fullwidth.php:21
+msgid "Portfolio Masonry Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Masonry.php:21
+msgid "Portfolio Masonry"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Matrix-Parallax.php:21
+msgid "Portfolio Matrix Parallax"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Matrix.php:21
+msgid "Portfolio Matrix"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro-Alt-Fullwidth.php:21
+msgid "Portfolio Metro Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro-Alt.php:21
+msgid "Portfolio Metro Alt"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro-Fullwidth.php:21
+msgid "Portfolio Metro Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro-Off-Grid-Fullwidth.php:21
+msgid "Portfolio Metro Off-Grid Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro-Off-Grid.php:21
+msgid "Portfolio Metro Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Metro.php:21
+msgid "Portfolio Metro"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Off-Grid-Bureau-Alt.php:21
+msgid "Portfolio Bureau Alt"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Off-Grid-Bureau.php:21
+msgid "Portfolio Bureau"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Parallax-Dark.php:21
+msgid "Portfolio Parallax Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Parallax.php:21
+msgid "Portfolio Parallax"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Photographer-Dark.php:21
+msgid "Portfolio Photographer Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Photographer.php:21
+msgid "Portfolio Photographer"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Single-Parallax-Alt.php:21
+msgid "Portfolio Single Parallax Alt"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Single-Parallax.php:21
+msgid "Portfolio Single Parallax"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Six-Overlay-Fullscreen.php:21
+msgid "Portfolio Six Overlay Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Slides-Fullscreen.php:21
+msgid "Portfolio Slides Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Slideshow.php:21
+msgid "Portfolio Slideshow"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Sticky-Cards.php:21
+msgid "Portfolio Sticky Cards"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Sticky-Scroll-Fluid.php:21
+msgid "Portfolio Sticky Scroll Fluid"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Sticky-Scroll-Skew.php:21
+msgid "Portfolio Sticky Scroll Skew"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Sticky-Scroll-Title.php:21
+msgid "Portfolio Sticky Scroll Title"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Stories-Fullwidth.php:21
+msgid "Portfolio Stories Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Studio-Architecture.php:21
+msgid "Portfolio Studio Architecture"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Studio-Archive-Dark.php:21
+msgid "Portfolio Studio Archive Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Studio-Archive.php:21
+msgid "Portfolio Studio Archive"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Studio.php:21
+msgid "Portfolio Studio"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Table-Dark.php:21
+msgid "Portfolio Table Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Table-Full-Width.php:21
+msgid "Portfolio Table Full-Width"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Table-with-Image.php:21
+msgid "Portfolio Table with Image"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Table.php:21
+msgid "Portfolio Table"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Three-Fullwidth.php:21
+msgid "Portfolio Three Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Three-Overlay-Fullscreen.php:21
+msgid "Portfolio Three Overlay Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Three.php:21
+msgid "Portfolio Three"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Background-Small.php:21
+msgid "Portfolio Titles Block Background Small"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Background.php:21
+msgid "Portfolio Titles Block Background"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Mouse-Dark.php:21
+msgid "Portfolio Titles Block Mouse Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Mouse-Left-Dark.php:21
+msgid "Portfolio Titles Block Mouse Left Dark"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Mouse-Left.php:21
+msgid "Portfolio Titles Block Mouse Left"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Block-Mouse.php:21
+msgid "Portfolio Titles Block Mouse"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Designer.php:21
+msgid "Portfolio Titles Designer"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Essential.php:21
+msgid "Portfolio Titles Essential"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Inline-Background.php:21
+msgid "Portfolio Titles Inline Background"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Inline-Mouse-Center.php:21
+msgid "Portfolio Titles Inline Mouse Center"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Inline-Mouse-Separators.php:21
+msgid "Portfolio Titles Inline Mouse Separators"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Titles-Inline-Mouse.php:21
+msgid "Portfolio Titles Inline Mouse"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Two-Overlay-Fullscreen.php:21
+msgid "Portfolio Two Overlay Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/portfolio/Portfolio-Two.php:21
+msgid "Portfolio Two"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-List-Tabs-Images.php:21
+msgid "Pricing List Tabs Images"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-List-Tabs-Textual.php:21
+msgid "Pricing List Tabs Textual"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Accent.php:21
+msgid "Pricing Table Accent"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Background.php:21
+msgid "Pricing Table Background"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Custom.php:21
+msgid "Pricing Table Custom"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Default.php:21
+msgid "Pricing Table Default"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Fullscreen.php:21
+msgid "Pricing Table Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Images.php:21
+msgid "Pricing Table Images"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-In-Tabs.php:21
+msgid "Pricing Table in Tabs"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Tabs.php:21
+msgid "Pricing Table Tabs"
+msgstr ""
+
+#: ../includes/wireframes/pricing-tables/Pricing-Table-Wide.php:21
+msgid "Pricing Table Wide"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Accordion-Variation.php:21
+msgid "Product Accordion Variation"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Accordion.php:21
+msgid "Product Accordion"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Carousel-Standard.php:21
+msgid "Product Carousel Standard"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Carousel-Vertical-Nav.php:21
+msgid "Product Carousel Vertical Nav"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Carousel.php:21
+msgid "Product Carousel"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Centered.php:21
+msgid "Product Centered"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Columns.php:21
+msgid "Product Columns"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Frame.php:21
+msgid "Product Frame"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Full-Screen.php:21
+msgid "Product Full-Screen"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Gallery.php:21
+msgid "Product Gallery"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Grid-Standard.php:21
+msgid "Product Grid Standard"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Grid-Wide.php:21
+msgid "Product Grid Wide"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Grid.php:21
+msgid "Product Grid"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Half-Screen.php:21
+msgid "Product Half-Screen"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Impact.php:21
+msgid "Product Impact"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Off-Grid.php:21
+msgid "Product Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Split.php:21
+msgid "Product Split"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stack-Wide-Inverted.php:21
+msgid "Product Stack Wide Inverted"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stack-Wide-Vertical-Nav.php:21
+msgid "Product Stack Wide Vertical Nav"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stack-Wide.php:21
+msgid "Product Stack Wide"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stack.php:21
+msgid "Product Stack"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stacked.php:21
+msgid "Product Stacked"
+msgstr ""
+
+#: ../includes/wireframes/products/Product-Stunning.php:21
+msgid "Product Stunning"
+msgstr ""
+
+#: ../includes/wireframes/products/Products-Marquee.php:21
+msgid "Products Marquee"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Accent-Background.php:21
+msgid "Quote Accent Background"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Avatar.php:21
+msgid "Quote Avatar"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Background.php:21
+msgid "Quote Background"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Carousel-Stage-Padding.php:21
+msgid "Quote Carousel Stage Padding"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Creative-Dark.php:21
+msgid "Quote Creative Dark"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Creative.php:21
+msgid "Quote Creative"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Custom.php:21
+msgid "Quote Custom"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Evidence.php:21
+msgid "Quote Evidence"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Huge.php:21
+msgid "Quote Huge"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Simple-Background.php:21
+msgid "Quote Simple Background"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Small.php:21
+msgid "Quote Small"
+msgstr ""
+
+#: ../includes/wireframes/quotes/Quote-Split-Fullwidth.php:21
+msgid "Quote Split Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Ajax-Filters-Classic.php:21
+msgid "Shop Ajax Filters Classic"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Ajax-Filters-Horizontal.php:21
+msgid "Shop Ajax Filters Horizontal"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Ajax-Filters-Overlay.php:21
+msgid "Shop Ajax Filters Overlay"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Ajax-Filters.php:21
+msgid "Shop Ajax Filters"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Alternate.php:21
+msgid "Shop Alternate"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Boutique-Carousel-Stage-Padding.php:21
+msgid "Shop Boutique Carousel Stage Padding"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Boutique-Carousel.php:21
+msgid "Shop Boutique Carousel"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-By-Categories.php:21
+msgid "Shop By Categories"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Carousel-Alt-Fullwidth.php:21
+msgid "Shop Carousel Alt Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Carousel-Fullscreen.php:21, ../includes/wireframes/shop/Shop-Carousel-Fullwidth.php:21
+msgid "Shop Carousel Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Carousel-No-Loop-Fullwidth.php:21
+msgid "Shop Carousel No Loop Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Carousel-Three.php:21
+msgid "Shop Carousel Three"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Carousel-Two.php:21
+msgid "Shop Carousel Two"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Classic.php:21
+msgid "Shop Classic"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Creative.php:21
+msgid "Shop Creative"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Four-Fullwidth.php:21
+msgid "Shop Four Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Four.php:21
+msgid "Shop Four"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Furniture-Categories.php:21
+msgid "Shop Furniture Categories"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Furniture-Products.php:21
+msgid "Shop Furniture Products"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-in-Tab.php:21
+msgid "Shop in Tab"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Landing-Alt.php:21
+msgid "Shop Landing Alt"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Landing.php:21
+msgid "Shop Landing"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Lateral.php:21
+msgid "Shop Lateral"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Metro.php:21
+msgid "Shop Metro"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Minimal.php:21
+msgid "Shop Minimal"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Off-Grid-Alt.php:21
+msgid "Shop Off-Grid Alt"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Off-Grid.php:21
+msgid "Shop Off-Grid"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Presentation-Four.php:21
+msgid "Shop Presentation Four"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Presentation-Three.php:21
+msgid "Shop Presentation Three"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Products-Crafter.php:21
+msgid "Shop Products Crafter"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Six-Fullwidth.php:21
+msgid "Shop Six Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Six-Overlay-Fullwidth.php:21
+msgid "Shop Six Overlay Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Slider-Fullscreen.php:21
+msgid "Shop Slider Fullscreen"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Slideshow.php:21
+msgid "Shop Slideshow"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Sticky-Scroll-Simple.php:21
+msgid "Shop Sticky Scroll Simple"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Sticky.php:21
+msgid "Shop Sticky"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Table-Dark.php:21
+msgid "Shop Table Dark"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Table-Description.php:21
+msgid "Shop Table Description"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Table-Full-Width.php:21
+msgid "Shop Table Full-Width"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Table.php:21
+msgid "Shop Table"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Techie.php:21
+msgid "Shop Techie"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Three.php:21
+msgid "Shop Three"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Block-Mouse-Dark.php:21
+msgid "Shop Titles Block Mouse Dark"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Block-Mouse-Left.php:21
+msgid "Shop Titles Block Mouse Left"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Block-Mouse.php:21
+msgid "Shop Titles Block Mouse"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Categories.php:21
+msgid "Shop Titles Categories"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Inline-Dark.php:21
+msgid "Shop Titles Inline Dark"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Titles-Inline.php:21
+msgid "Shop Titles Inline"
+msgstr ""
+
+#: ../includes/wireframes/shop/Shop-Two.php:21
+msgid "Shop Two"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Empty-Cart-Four.php:21
+msgid "Empty Cart Four"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Empty-Cart-One.php:21
+msgid "Empty Cart One"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Empty-Cart-Three.php:21
+msgid "Empty Cart Three"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Empty-Cart-Two.php:21
+msgid "Empty Cart Two"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Login-Register-Four.php:21
+msgid "Login-Register One"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Login-Register-One.php:21
+msgid "Login-Register Four"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Login-Register-Three.php:21
+msgid "Login-Register Three"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Login-Register-Two.php:21
+msgid "Login-Register Two"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Quick-View-One.php:21
+msgid "Quick-View One"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Quick-View-Three.php:21
+msgid "Quick-View Three"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Quick-View-Two.php:21
+msgid "Quick-View Two"
+msgstr ""
+
+#: ../includes/wireframes/shop-utilities/Tracking-Form.php:21
+msgid "Tracking Form"
+msgstr ""
+
+#: ../includes/wireframes/specials/Ajax-Filters-Horizontal.php:21
+msgid "Ajax Filters Horizontal"
+msgstr ""
+
+#: ../includes/wireframes/specials/Ajax-Filters-Overlay.php:21
+msgid "Ajax Filters Overlay"
+msgstr ""
+
+#: ../includes/wireframes/specials/Ajax-Filters-Sidebar.php:21
+msgid "Ajax Filters Sidebar"
+msgstr ""
+
+#: ../includes/wireframes/specials/Logo-Marquee.php:21
+msgid "Logo-Marquee"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-404.php:21
+msgid "Special 404"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Coming-Soon.php:21
+msgid "Special Coming Soon"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Heading-with-Images-Dark.php:21
+msgid "Special Heading Images Dark"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Heading-with-Images-Light.php:21
+msgid "Special Heading Images Light"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Maintenance-Mode.php:21
+msgid "Special Maintenance Mode"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Marquee-Banners.php:21
+msgid "Special Marquee Banners"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Rotating-Heading-Opacity.php:21
+msgid "Special Rotating Heading Opacity"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Rotating-Heading-Timing.php:21
+msgid "Special Rotating Heading Timing"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Rotating-Heading-Whole-Sentence.php:21
+msgid "Special Rotating Heading whole Sentence"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Rotating-Heading.php:21
+msgid "Special Rotating Heading"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Splash-Page.php:21
+msgid "Special Splash Page"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Text-Marquee-Auto-Edge-to-Edge.php:21
+msgid "Special Text Marquee Auto Edge to Edge"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Text-Marquee-Auto.php:21
+msgid "Special Text Marquee Auto"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Text-Marquee-Cross.php:21
+msgid "Special Marquee Cross"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Text-Marquee-Double.php:21
+msgid "Special Text Marquee Double"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Text-Marquee.php:21
+msgid "Special Text Marquee"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Vertical-Elements-Fixed.php:21
+msgid "Special Vertical Elements Fixed"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Vertical-Elements-Image-Alt.php:21
+msgid "Special Vertical Elements Image Alt"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Vertical-Elements-Image.php:21
+msgid "Special Vertical Elements Image"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Vertical-Elements-Portfolio-Carousel.php:21
+msgid "Special Vertical Elements Portfolio Carousel"
+msgstr ""
+
+#: ../includes/wireframes/specials/Special-Vertical-Elements-Section.php:21
+msgid "Special Vertical Elements Section"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Boxed-Wide.php:21
+msgid "Accordion Boxed Wide"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Equal-Height.php:21
+msgid "Accordion Equal Height"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Faq-with-Text.php:21
+msgid "Accordion Faq with Text"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Lateral-Image.php:21
+msgid "Accordion Lateral Image"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Wide-Contents.php:21
+msgid "Accordion Wide Contents"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-Wide-with-Image.php:21
+msgid "Accordion Wide with Image"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-with-Image.php:21
+msgid "Accordion with Image"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Accordion-with-Products.php:21
+msgid "Accordion with Products"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-on-Hover.php:21
+msgid "Tabs on Hover"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Products-Description.php:21
+msgid "Tabs Products Description"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-Creative-Product.php:21
+msgid "Tabs Vertical Creative Product"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-Wide-Products.php:21
+msgid "Tabs Vertical Wide Products"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-Wide-with-Image.php:21
+msgid "Tabs Vertical Wide with Image"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-Wide.php:21
+msgid "Tabs Vertical Wide"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-with-Excerpt.php:21
+msgid "Tabs Vertical with Excerpt"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-with-Image.php:21
+msgid "Tabs Vertical with Image"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-with-Images-Grid.php:21
+msgid "Tabs Vertical with Images Grid"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-Vertical-with-Images.php:21
+msgid "Tabs Vertical with Images"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-with-Contents.php:21
+msgid "Tabs with Contents"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-with-Gallery.php:21
+msgid "Tabs with Gallery"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-with-Icons.php:21
+msgid "Tabs with Icons"
+msgstr ""
+
+#: ../includes/wireframes/tabs-accordions/Tabs-with-Products-Wide.php:21
+msgid "Tabs with Products Wide"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Author-Minimal.php:21
+msgid "Team Members Author Minimal"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Carousel-Fullwidth.php:21
+msgid "Team Members Carousel Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Circle.php:21
+msgid "Team Members Circle"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Classic.php:21
+msgid "Team Members Classic"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Corporation.php:21
+msgid "Team Members Corporation"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Grid-Fullwidth.php:21
+msgid "Team Members Grid Fullwidth"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Lightbox.php:21
+msgid "Team Members Lightbox"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Simple.php:21
+msgid "Team Members Simple"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Speakers.php:21
+msgid "Team Members Speakers"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-Three.php:21
+msgid "Team Members Three"
+msgstr ""
+
+#: ../includes/wireframes/team-members/Team-Members-with-Numbers.php:21
+msgid "Team Members with Numbers"
+msgstr ""
+
+#: ../uncode-wireframes.php:58, ../uncode-wireframes.php:65
+msgid "Cheatin&#8217; huh?"
+msgstr ""

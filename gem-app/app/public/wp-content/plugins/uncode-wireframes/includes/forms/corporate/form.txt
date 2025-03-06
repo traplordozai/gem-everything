@@ -1,0 +1,3 @@
+<p>[text* your-firstname placeholder class:form-fluid "Name"]</p>
+<p>[textarea your-message placeholder "Message"] </p>
+[submit class:btn class:btn-accent "Submit a request"]

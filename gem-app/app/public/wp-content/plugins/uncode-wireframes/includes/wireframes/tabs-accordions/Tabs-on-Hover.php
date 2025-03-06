@@ -1,0 +1,46 @@
+<?php
+/**
+ * name             - Wireframe title
+ * cat_name         - Comma separated list for multiple categories (cat display name)
+ * custom_class     - Space separated list for multiple categories (cat ID)
+ * dependency       - Array of dependencies
+ * is_content_block - (optional) Best in a content block
+ *
+ * @version  1.0.0
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
+}
+
+$wireframe_categories = UNCDWF_Dynamic::get_wireframe_categories();
+$data                 = array();
+
+// Wireframe properties
+
+$data[ 'name' ]             = esc_html__( 'Tabs on Hover', 'uncode-wireframes' );
+$data[ 'cat_name' ]         = $wireframe_categories[ 'tabs-accordions' ];
+$data[ 'custom_class' ]     = 'tabs-accordions';
+$data[ 'image_path' ]       = UNCDWF_THUMBS_URL . 'tabs-accordions/Tabs-on-Hover.jpg';
+$data[ 'dependency' ]       = array();
+$data[ 'is_content_block' ] = false;
+
+// Wireframe content
+
+$data[ 'content' ]      = '
+[vc_row row_height_percent="0" override_padding="yes" h_padding="2" top_padding="5" bottom_padding="5" overlay_alpha="50" gutter_size="3" column_width_percent="100" shift_y="0" z_index="0" uncode_shortcode_id="163199"][vc_column column_width_percent="100" align_horizontal="align_center" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="385121"][vc_tabs tab_hover="yes" tab_switch="yes" animation_active="yes" typography="advanced" tab_no_border="yes" titles_size="h5" titles_weight="600" gutter_simple="0" uncode_shortcode_id="163184"][vc_tab gutter_size="3" column_padding="3" title="Upcoming Tour" tab_id="1672853583176-3-71715766374739"][vc_separator sep_color="" uncode_shortcode_id="133420"][vc_row_inner limit_content=""][vc_column_inner width="3/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="186183"]07 - 10 June[/vc_custom_heading][/vc_column_inner][vc_column_inner width="6/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="857238"]Sweden Rock Festival, Solvesborg[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_right" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" align_medium="align_left_tablet" medium_width="0" align_mobile="align_left_mobile" mobile_width="0" width="3/12" uncode_shortcode_id="745492"][vc_button border_width="0" scale_mobile="no" uncode_shortcode_id="685892"]Click the button[/vc_button][/vc_column_inner][/vc_row_inner][vc_separator sep_color="" uncode_shortcode_id="133420"][vc_row_inner limit_content=""][vc_column_inner width="3/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="137108"]15 - 17 June[/vc_custom_heading][/vc_column_inner][vc_column_inner width="6/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="141278"]Sonar, Barcelona[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_right" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" align_medium="align_left_tablet" medium_width="0" align_mobile="align_left_mobile" mobile_width="0" width="3/12" uncode_shortcode_id="149749"][vc_button border_width="0" scale_mobile="no" uncode_shortcode_id="685892"]Click the button[/vc_button][/vc_column_inner][/vc_row_inner][vc_separator sep_color="" uncode_shortcode_id="133420"][vc_row_inner limit_content=""][vc_column_inner width="3/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="105033"]06 - 08 July[/vc_custom_heading][/vc_column_inner][vc_column_inner width="6/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="361523"]Bilbao Bkk Live, Bilbao[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_right" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" align_medium="align_left_tablet" medium_width="0" align_mobile="align_left_mobile" mobile_width="0" width="3/12" uncode_shortcode_id="188771"][vc_button border_width="0" scale_mobile="no" uncode_shortcode_id="685892"]Click the button[/vc_button][/vc_column_inner][/vc_row_inner][vc_separator sep_color="" uncode_shortcode_id="823335"][vc_row_inner limit_content=""][vc_column_inner width="3/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="165056"]03 - 06 August[/vc_custom_heading][/vc_column_inner][vc_column_inner width="6/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="158196"]Rebellion Festival, Blackpool[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_right" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" align_medium="align_left_tablet" medium_width="0" align_mobile="align_left_mobile" mobile_width="0" width="3/12" uncode_shortcode_id="165650"][vc_button border_width="0" scale_mobile="no" uncode_shortcode_id="685892"]Click the button[/vc_button][/vc_column_inner][/vc_row_inner][vc_separator sep_color="" uncode_shortcode_id="823335"][vc_row_inner limit_content=""][vc_column_inner width="3/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="125066"]09 - 10 September[/vc_custom_heading][/vc_column_inner][vc_column_inner width="6/12"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'h3' ) .'" text_height="'. uncode_wf_print_font_height( 'fontheight-357766' ) .'" uncode_shortcode_id="890483"]Lollapalooza, Berlin[/vc_custom_heading][/vc_column_inner][vc_column_inner column_width_percent="100" position_vertical="middle" align_horizontal="align_right" gutter_size="3" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" align_medium="align_left_tablet" medium_width="0" align_mobile="align_left_mobile" mobile_width="0" width="3/12" uncode_shortcode_id="212194"][vc_button border_width="0" scale_mobile="no" uncode_shortcode_id="685892"]Click the button[/vc_button][/vc_column_inner][/vc_row_inner][/vc_tab][vc_tab gutter_size="2" column_padding="3" title="Showreel" tab_id="1671549647008-0-916728503246691715766374739"][vc_row_inner row_inner_height_percent="0" overlay_alpha="50" gutter_size="4" shift_y="0" z_index="0" limit_content="" uncode_shortcode_id="183214"][vc_column_inner column_width_percent="100" gutter_size="3" style="dark" overlay_alpha="50" shift_x="0" shift_y="0" shift_y_down="0" z_index="0" medium_width="0" mobile_width="0" width="1/1" uncode_shortcode_id="619800"][vc_single_image media="'. uncode_wf_print_single_image( '80471' ) .'" media_width_percent="100" media_ratio="sixteen-nine" shape="img-round" shadow="yes" shadow_weight="std" uncode_shortcode_id="697839"][vc_icon display="absolute-center" icon="fa fa-play" background_style="fa-rounded" size="fa-3x" icon_automatic="yes" shadow="yes" uncode_shortcode_id="495425" media_lightbox="'. uncode_wf_print_single_image( '88180' ) .'"][/vc_icon][/vc_column_inner][/vc_row_inner][/vc_tab][vc_tab gutter_size="3" column_padding="3" title="Our Manifesto" tab_id="1671549647213-0-116728503246691715766374739"][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'fontsize-160000' ) .'" text_transform="uppercase" uncode_shortcode_id="498384"]Tagline[/vc_custom_heading][vc_custom_heading text_size="'. uncode_wf_print_font_size( 'fontsize-338686' ) .'" uncode_shortcode_id="103620"]Design can be art. Design can be aesthetics. Design is so simple, that is why it is so complicated.[/vc_custom_heading][vc_empty_space empty_h="0"][vc_single_image media="'. uncode_wf_print_single_image( '80471' ) .'" media_width_use_pixel="yes" alignment="center" uncode_shortcode_id="120803" media_width_pixel="200"][/vc_tab][/vc_tabs][/vc_column][/vc_row]
+';
+
+// Check if this wireframe is for a content block
+if ( $data[ 'is_content_block' ] && ! $is_content_block ) {
+	$data[ 'custom_class' ] .= ' for-content-blocks';
+}
+
+// Check if this wireframe requires a plugin
+foreach ( $data[ 'dependency' ]  as $dependency ) {
+	if ( ! UNCDWF_Dynamic::has_dependency( $dependency ) ) {
+		$data[ 'custom_class' ] .= ' has-dependency needs-' . $dependency;
+	}
+}
+
+vc_add_default_templates( $data );

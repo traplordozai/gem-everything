@@ -1,0 +1,44 @@
+<p>[text* your-firstname placeholder class:form-fluid "Name"]</p>
+<p>[textarea your-message placeholder "Message"] </p>
+[submit class:btn class:btn-accent "Submit a request"]
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Your message was sent successfully. Thanks.
+Failed to send your message. Please try later or contact the administrator by another method.
+Validation errors occurred. Please confirm the fields and submit it again.
+Failed to send your message. Please try later or contact the administrator by another method.
+Please accept the terms to proceed.
+Please fill the required field.
+This input is too long.
+This input is too short.
+Date format seems invalid.
+This date is too early.
+This date is too late.
+Failed to upload file.
+This file type is not allowed.
+This file is too large.
+Failed to upload file. Error occurred.
+Number format seems invalid.
+This number is too small.
+This number is too large.
+Your answer is not correct.
+Your entered code is incorrect.
+Email address seems invalid.
+URL seems invalid.
+Telephone number seems invalid.

@@ -1,0 +1,17 @@
+<p>First Name (required)<br />
+     [text* your-firstname ] </p>
+
+<p>Last Name (required)<br />
+    [text* your-lastname ] </p>
+
+<p>Email (required)<br />
+    [email* your-email] </p>
+
+<p>Website<br />
+    [text your-website] </p>
+
+<p>Message<br />
+    [textarea your-message] </p>
+[acceptance accept-this-1] Check here if you accept our terms (<a href="#">Privacy Policy</a>) [/acceptance]
+
+[submit class:btn class:btn-accent "Click the button"]
